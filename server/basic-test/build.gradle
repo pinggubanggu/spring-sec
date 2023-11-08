@@ -1,6 +1,7 @@
 
 
 dependencies {
+    // 그래야 웹 어플리케이션을 만들 수 있다.
     implementation("$boot:spring-boot-starter-web")
 }
 
